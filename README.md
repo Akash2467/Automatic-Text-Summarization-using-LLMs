@@ -89,3 +89,4 @@ For an overview of the project including objectives, methodology, results, and f
 - Use additional evaluation metrics such as BLEU, METEOR, and BERTScore.
 - Expand to multilingual summarization and broader domains.
 - Add UI enhancements such as summary length control and feedback system.
+Note: Trained model files are not included due to size constraints. Please refer to the notebooks for training and inference code.
